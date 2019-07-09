@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/test.github.io",
   siteMetadata: {
     title: `Wild Code School Blog`,
     author: `Philippe Pinceloup`,
